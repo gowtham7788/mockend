@@ -2,6 +2,9 @@
   "User": {
     "title": {
       "string": {}
+    },
+    "name: {
+      "string": {}
     }
   }
 }
