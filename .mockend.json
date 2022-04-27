@@ -5,6 +5,9 @@
     },
     "title": {
       "string": {}
+    },
+    "age": {
+      "string": {}
     }
   }
 }
