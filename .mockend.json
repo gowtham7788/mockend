@@ -9,5 +9,10 @@
     "age": {
       "string": {}
     }
+  },
+  "approval-queue: {
+    "reference": {
+      "string": {}
+    }
   }
 }
